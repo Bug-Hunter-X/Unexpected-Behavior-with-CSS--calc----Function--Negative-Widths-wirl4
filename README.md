@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to the CSS `calc()` function. The bug occurs when the calculation within `calc()` results in a negative value for width, which can lead to unexpected layout behavior. The solution provides a method to handle this situation and prevent negative widths.
